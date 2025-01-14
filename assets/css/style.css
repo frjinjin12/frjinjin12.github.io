@@ -253,6 +253,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #055796;}
     padding: 35px 0 43px;
     border-bottom: 1px solid #999fb3;
 }
+
 .single-about-add-info {
     margin: 35px 0;
 }
@@ -278,10 +279,6 @@ nav.navbar.bootsnav .navbar-toggle i{color: #055796;}
 .single-about-img img {
     max-width: 500px;
     height: 468px;
-}
-.single-about-img1{
-    max-width: 500px;
-    margin: 20px; /* Adds space between the image and the text */
 }
 .single-about-img1 img {
     max-width: 500px;
@@ -323,12 +320,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #055796;}
 .about-list-icon ul li a i {
     margin-left: 6px;
 }
-.about-content {
-    padding-top: 100px;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-}
+
 /*.ab-list-icon */
 
 /*.single-about-img */
