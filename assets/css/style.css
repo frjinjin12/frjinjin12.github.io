@@ -924,5 +924,16 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     -o-transform:scale(1);
     transform:scale(1);
     top:0;
-}/*.isotope-overlay*/
-/*========================Thank you=================
+}
+.isotope .item-vert1 img{
+    width: 100%;
+    height: 530px;
+}
+.isotope .item1 img{
+    width: 100%;
+    height: 250px;
+}
+/*.isotope-overlay*/
+/*========================Thank you=================/
+
+
